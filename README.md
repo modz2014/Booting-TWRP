@@ -16,7 +16,7 @@ Also you need to find the blocks your wanting to dump you can edit the script an
 how to find out the blocks you can install a system file browser called ES File Explorer File Manager
 you dont need to be root to see the file system of your device only to edit the root file system which you dont need
 
-## This can used to find exploits for android devices##
+# This can used to find exploits for android devices
 
 # Booting-TWRP Dumping IMG files without root example bootloader
 Booting TWRP without installing
